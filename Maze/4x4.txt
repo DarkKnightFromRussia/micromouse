@@ -1,0 +1,25 @@
+Maze Save - 2022-09-27 12-32
+
+Maze size:
+4,4
+
+Bots:
+pos: 0,0|dir: 1|cubs: 0|algorithm: BotAlgorithm
+
+Cells:
+1101S0
+1001U0
+1010U0
+1100U0
+0101U0
+0001U0
+1100U0
+0111F0
+0001U0
+0100U0
+0011U0
+1100U0
+0111U0
+0111U0
+1011U0
+0110U0
